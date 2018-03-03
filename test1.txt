@@ -1,0 +1,11 @@
+日本	word
+すごい	word
+食べる	word
+パソコン	word
+Sony	word
+العربية	word
+食べعる	word
+32802	numeral
+3,209	numeral
+一〇〇	numeral
+四百六十九	numeral
