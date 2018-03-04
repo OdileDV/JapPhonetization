@@ -2,7 +2,7 @@
 
 1) Python program: "phonetize_jap.py"
 to be launched with the file to phonetize as an argument
-ex : 	phonetize_jap.py test1.txt
+ex : 	python phonetize_jap.py test1.txt
 
 libraries needed:
 urllib.request
